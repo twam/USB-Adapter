@@ -1,3 +1,8 @@
 *.bak
 *.kicad_pcb-bak
 *.net
+Gerber/*-F.*.gbr
+Gerber/*-Edge.*.gbr
+Gerber/*-B.*.gbr
+Gerber/*.txt
+Gerber/*.zip
